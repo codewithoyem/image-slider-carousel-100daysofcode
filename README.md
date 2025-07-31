@@ -46,7 +46,7 @@ A responsive, auto-playing image slider built using **HTML**, **CSS**, and **Jav
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](https://your-live-demo-url.com)
+🔗 [View Live Demo](https://codewithoyem.github.io/image-slider-carousel-100daysofcode/)
 
 ---
 
@@ -55,7 +55,7 @@ A responsive, auto-playing image slider built using **HTML**, **CSS**, and **Jav
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codewithoyem/typing-speed-tester-100daysofcode.git
+   git clone https://github.com/codewithoyem/image-slider-carousel-100daysofcode.git
    cd digital-clock-dark-mode
    ```
 
