@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>100 days of code: Image Slider</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="slider">
+    <div class="slides">
+      <img src="https://placehold.co/800x400/FF5733/ffffff?text=Slide+1" alt="Slide 1">
+      <img src="https://placehold.co/800x400/33C1FF/ffffff?text=Slide+2" alt="Slide 2">
+      <img src="https://placehold.co/800x400/28A745/ffffff?text=Slide+3" alt="Slide 3">
+    </div>
+
+    <!-- Arrows -->
+    <button class="arrow left">&#10094;</button>
+    <button class="arrow right">&#10095;</button>
+    
+    <!-- Dots -->
+    <div class="dots">
+        <span class="dot active" data-index="0"></span>
+        <span class="dot" data-index="1"></span>
+        <span class="dot" data-index="2"></span>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
